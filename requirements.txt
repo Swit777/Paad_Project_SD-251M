@@ -1,0 +1,2 @@
+Для работы проекта нужно установить библиотеки. 
+Используйте команду - pip install streamlit pandas numpy matplotlib seaborn scikit-learn statsmodels openpyxl python-dateutil
